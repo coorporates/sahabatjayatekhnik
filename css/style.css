@@ -204,8 +204,8 @@
 }
 
 @media (max-width: 576px) {
-  .owl-carousel .owl-carousel-item img {
-    height: auto;
+  .owl-carousel img {
+    height: 300px;
   }
 }
 
